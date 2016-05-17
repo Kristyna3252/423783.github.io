@@ -54,4 +54,4 @@ Takže hurá čítať náš web, kde uvedieme príbeh expedície, ako to všetko
 
 Při zveřejňování bychom se chtěli držet našeho seznamu s obsahem webu a postupným zveřejňováním bychom chtěli uživatele seznámit se všemi nám známými údaji Dyatlovy expedice, od informací o cíli výpravy, přes seznámení se členy výpravy až po jejich ztracení a následné pátrání po členech výpravy. Všichni uživatelé byly nalezení mrtví, ale nikdo neví proč. Existuje spoustu konspiračních teorií, se kterými chceme návštěvníky webu seznámit a řadu konspiračních teorií chceme obohatit o naše postřehy a názory.
 
-[idnes]: <http://zpravy.idnes.cz/v-rusku-zemrel-muz-jenz-jediny-prezil-tajemnou-vypravu-na-horu-mrtvych-1ao-/zahranicni.aspx?c=A130430_144028_zahranicni_ipl>
+[idnes](http://zpravy.idnes.cz/v-rusku-zemrel-muz-jenz-jediny-prezil-tajemnou-vypravu-na-horu-mrtvych-1ao-/zahranicni.aspx?c=A130430_144028_zahranicni_ipl)
